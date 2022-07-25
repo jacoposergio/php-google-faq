@@ -1,0 +1,83 @@
+  /* RESET */ 
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+  }
+
+  img{
+    width: 100%;
+  }
+
+  a {
+    color: inherit; 
+    text-decoration: none;
+  }
+
+  ul
+    {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+/* HEADER  */
+
+header{
+    border-bottom: 2px solid lightgrey;
+    padding: 10px;
+}
+
+.top-header{
+    display: flex;
+    align-items:flex-start;
+    margin-bottom: 10px;
+}
+
+.top-header h2{
+    margin-left: 15px;
+    font-size: 1.2rem;
+}
+
+  .google-logo{
+    width: 80px;
+  }
+
+.bottom-header ul{
+    display: flex;
+}  
+
+.bottom-header li{
+    margin-right: 50px;
+    font-size: 0.8rem;
+}
+
+/* MAIN  */
+
+main .container{
+    width: 65%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+main h3{
+    margin-bottom: 20px;
+}
+
+main p{
+    margin-bottom: 20px;
+}
+
+main a{
+    color: blue;
+}
+
+main ol li{
+    margin: 20px 0;
+}
+
+main ol li ol{
+    margin-left: 30px;
+}
