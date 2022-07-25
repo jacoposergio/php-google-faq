@@ -70,10 +70,10 @@ $faqs = [
     <div class="bottom-header">
         <ul>
             <li> <a href="#"></a> Introduzione </li>
-            <li> <a href="#"></a> Introduzione </li>
-            <li> <a href="#"></a> Introduzione </li>
-            <li> <a href="#"></a> Introduzione </li>
-            <li> <a href="#"></a> Introduzione </li>
+            <li> <a href="#"></a> Norme sulla privacy </li>
+            <li> <a href="#"></a> Termini di servizio </li>
+            <li> <a href="#"></a> Tecnologie </li>
+            <li> <a href="#"></a> Domande frequenti </li>
         </ul>
     </div> 
 

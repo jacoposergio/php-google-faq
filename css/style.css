@@ -47,6 +47,8 @@ header{
 
 .bottom-header ul{
     display: flex;
+    cursor: pointer;
+    
 }  
 
 .bottom-header li{
